@@ -4,7 +4,7 @@ Group:
 Only Aiden Fockens (afockens@bu.edu)
 
 Project Description:
-My project will tell a rock climber where they should put their hands on feet to complete the climb.
+My project will tell a rock climber where they should put their hands and feet to complete the climb.
 
 Goal:
 Make a neural net that can take in videos with certain features and come back with the order in which to put hands and feet.
