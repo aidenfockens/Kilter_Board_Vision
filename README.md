@@ -1,5 +1,13 @@
 # Kilter_Board_Vision
 
+QUESTIONS ANSWERED FOR TA:
+
+For my network, I will use either an RNN or CNN.
+Output will be a matrix describing the next state. 
+I will use computer vision (I took a computer vision class) to highlight the grid as well as hands and feet in the video. WHen a hand or foot is in a part of the grid long enough, that will be added as a state. The next state will become its answer/label.
+
+
+
 Group:
 Only Aiden Fockens (afockens@bu.edu)
 
@@ -28,4 +36,8 @@ Take a video. Cycle through the frames. For each frame, I need to:
 
 
 Next, train the model based on these matrices. To test, give it a picture of a climb. it should then figure out the matrix and process the next move. From here, it should be able to process until finished (there are no 6's in the matrix) and then print those steps out.
-  
+
+
+
+
+
