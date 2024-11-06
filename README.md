@@ -1,7 +1,26 @@
 # Kilter_Board_Vision
 
+VIDEO LINK: https://youtu.be/bbO-6fwZC30
+
 Group:
 Only Aiden Fockens (afockens@bu.edu)
+
+Work done so far:
+
+- attempted to automate data collection
+- can compute a matrix from screenshots provided on the app
+
+
+What has to be done:
+- downloading many pictures and videos
+- computer vision to determine which hands go on which places
+- machine learning model to predict which hand will go where next
+
+
+
+
+Old description:
+
 
 Project Description:
 My project will tell a rock climber where they should put their hands and feet to complete the climb.
